@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ogkra
+ *
+ */
+module RozetkaTestKravchukOleksii {
+}
